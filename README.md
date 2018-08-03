@@ -1,4 +1,4 @@
-# Stuve Web App
+# Peru Map Web App
 
 To install
 ```
@@ -15,4 +15,4 @@ View the app
 http://localhost:3000
 
 
-Your home page is `views/index.html' file. It contains a map of Peru from the google maps api. https://developers.google.com/maps/documentation/javascript/tutorial
+Your home page is `views/index.html` file. It contains a map of Peru from the google maps api. https://developers.google.com/maps/documentation/javascript/tutorial
